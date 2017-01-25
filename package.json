@@ -1,0 +1,14 @@
+{
+
+	"name": "charliebot",
+
+	"version": "1.0.0",
+
+	"scripts": { "start": "node charlie.js"  },
+	"dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "discord.js": "^11.0.0",
+    "google-translate-api-plus": "^1.0.1"
+  }
+
+}
